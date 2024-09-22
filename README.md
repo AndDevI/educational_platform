@@ -5,6 +5,7 @@
 O **Sistema de Gestão Escolar** foi desenvolvido com o intuito de proporcionar uma gestão mais eficiente e organizada das atividades escolares. As principais metas incluem:
 <details>
  <summary>Clique aqui</summary>
+ 
  - **Facilidade na Gestão da Escola**: Automatização de processos administrativos, permitindo um gerenciamento mais ágil e eficaz de informações, como matrículas, frequência e notas.
   
  - **Melhoria e Suporte na Educação de Alunos**: Ferramentas integradas que facilitam a comunicação entre alunos, pais e a escola, promovendo um ambiente educacional mais colaborativo e acessível.
