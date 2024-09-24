@@ -36,6 +36,8 @@ O **Sistema de Gestão Escolar** foi desenvolvido com o intuito de proporcionar 
   - **Comunicação**: Canal de comunicação direta entre professores, alunos e responsáveis, promovendo transparência e colaboração.
 
   - **Relatórios Gerenciais**: Geração de relatórios analíticos sobre desempenho acadêmico, frequência e outras métricas importantes para a gestão escolar.
+
+  - **Materiais Complementares**: Disponibilização de cursos, materiais didáticos e vídeos que enriquecem o aprendizado, oferecendo recursos adicionais para apoiar os alunos em suas atividades acadêmicas e ampliar seu conhecimento.
 </details>
 
 ## Público-Alvo
