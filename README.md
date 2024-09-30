@@ -43,9 +43,3 @@ O **Sistema de Gestão Escolar** foi desenvolvido com o intuito de proporcionar 
 ## Público-Alvo
 
 Este software é destinado a instituições de ensino, incluindo escolas de educação básica e ensino médio, que buscam modernizar sua gestão administrativa e pedagógica.
-
-## License
-
-Educational Platform © 2024 by Andrew Raphael Gabriel Pires is licensed under CC BY-NC-ND 4.0
-Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
-See http://creativecommons.org/licenses/by-nc-nd/4.0/ 
