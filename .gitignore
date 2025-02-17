@@ -1,0 +1,21 @@
+/vendor
+/public/storage
+/storage/*.key
+
+# Laravel & Symfony specific
+.env
+.env.backup
+Homestead.yaml
+Homestead.json
+
+# Cache & logs
+*.log
+npm-debug.log*
+yarn-error.log*
+.phpunit.result.cache
+
+# IDE / Editor files
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
